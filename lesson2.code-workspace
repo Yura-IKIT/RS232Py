@@ -1,0 +1,71 @@
+{
+	"folders": [
+		{
+			"path": "M:/JavaScript Lesson/lesson2"
+		},
+		{
+			"name": "ESP32L298Temp",
+			"path": "M:/ESP32L298Temp"
+		},
+		{
+			"path": "M:/ESP32L298"
+		},
+		{
+			"name": "LedPython",
+			"path": "M:/LedPython"
+		},
+		{
+			"name": "EspNow",
+			"path": "C:/Users/ym/Documents/PlatformIO/Projects/EspNow"
+		},
+		{
+			"name": "EspNow32Server",
+			"path": "M:/EspNow32Server"
+		},
+		{
+			"name": "Esp32-NOW_OneWay",
+			"path": "M:/ESP32-NOW_OneWay/Esp32-NOW_OneWay"
+		},
+		{
+			"name": "Esp32-NOW_OneWayRx",
+			"path": "M:/Esp32-NOW_OneWayRx"
+		},
+		{
+			"name": "ESP8266_NOW_OneWayTx",
+			"path": "M:/ESP8266_NOW_OneWayTx"
+		},
+		{
+			"name": "Esp32Mesh",
+			"path": "M:/Esp32Mesh"
+		},
+		{
+			"name": "ESP32_Heltec",
+			"path": "M:/ESP32_Heltec"
+		},
+		{
+			"name": "Esp32LoraE32",
+			"path": "M:/Esp32LoraE32"
+		},
+		{
+			"name": "esp32LoraE32_Base",
+			"path": "M:/esp32LoraE32_Base"
+		},
+		{
+			"name": "Esp32Serial1_2Test",
+			"path": "M:/Esp32Serial1_2Test"
+		},
+		{
+			"name": "esp32SerialOlimex",
+			"path": "M:/esp32SerialOlimex"
+		},
+		{
+			"name": " Esp32JSON_File_To_SD",
+			"path": "M:/ Esp32JSON_File_To_SD"
+		},
+		{
+			"name": "Esp32GpsA7",
+			"path": "M:/Esp32GpsA7"
+		}
+	],
+	"settings": {}
+}
